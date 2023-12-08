@@ -1,0 +1,287 @@
+.home-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #08121a;
+  width: 1440px;
+  height: 100px;
+}
+.where-success {
+  margin: 0;
+}
+.where-success-starts-container {
+  position: absolute;
+  top: 24px;
+  left: 138px;
+  display: inline-block;
+  color: var(--color-snow);
+  width: 212px;
+}
+.learn-more {
+  left: 873px;
+  cursor: pointer;
+}
+.contact,
+.learn-more,
+.login {
+  position: absolute;
+  top: 39px;
+  font-weight: 600;
+  color: var(--color-snow);
+}
+.contact {
+  left: 1080px;
+  cursor: pointer;
+}
+.login {
+  left: 1246px;
+}
+.image-placeholder-icon {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  width: 1534px;
+  height: 680px;
+}
+.graduates-will-be,
+.graphic-design-at {
+  position: absolute;
+  top: 839px;
+  left: 467px;
+  font-size: 53.75px;
+  font-family: var(--font-abril-fatface);
+  display: inline-block;
+  width: 680px;
+}
+.graduates-will-be {
+  top: 1227px;
+  font-size: 44.59px;
+  width: 730px;
+}
+.note,
+.this-multidisciplinary-degree {
+  position: absolute;
+  left: 467px;
+  font-family: var(--font-georgia);
+}
+.note {
+  top: 1728px;
+  font-size: 25.92px;
+}
+.this-multidisciplinary-degree {
+  top: 919px;
+  font-size: var(--font-size-lg);
+  line-height: 32px;
+  display: inline-block;
+  width: 730px;
+  height: 253px;
+}
+.additional-information {
+  font-size: var(--font-size-2xl-6);
+  font-family: var(--font-georgia);
+}
+.apply-graphic-design-container {
+  position: absolute;
+  top: 1289px;
+  left: 467px;
+  line-height: 32px;
+  display: inline-block;
+  width: 730px;
+  height: 384px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-georgia);
+}
+.depending-upon-a {
+  font-size: var(--font-size-mini);
+  font-family: var(--font-georgia);
+}
+.httpspccclibguidescomcp {
+  color: inherit;
+}
+.gd-294-internship {
+  text-decoration: underline;
+}
+.a-depending-upon-container {
+  position: absolute;
+  top: 1768px;
+  left: 467px;
+  line-height: 32px;
+  color: inherit;
+  display: inline-block;
+  width: 732px;
+  height: 191px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-georgia);
+}
+.cirrculum,
+.course-list,
+.faculty,
+.program-overview {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  font-weight: 600;
+}
+.cirrculum,
+.course-list,
+.faculty {
+  top: 44px;
+  left: 0;
+}
+.course-list,
+.faculty {
+  top: 88px;
+}
+.faculty {
+  top: 132px;
+}
+.creative-careers,
+.graphic-design-resources {
+  position: absolute;
+  top: 176px;
+  left: 0;
+  font-weight: 600;
+}
+.graphic-design-resources {
+  top: 220px;
+}
+.program-overview-parent {
+  position: absolute;
+  top: 933px;
+  left: 121px;
+  width: 230px;
+  height: 242px;
+  font-size: var(--font-size-lg);
+}
+.associates-certificate,
+.graphic-design {
+  position: absolute;
+  top: 703px;
+  left: 24px;
+  font-size: 78.1px;
+  display: inline-block;
+  width: 842px;
+  height: 77px;
+}
+.associates-certificate {
+  top: 670px;
+  left: 33px;
+  font-size: 31.1px;
+  letter-spacing: 0.25em;
+  font-family: var(--font-abril-fatface);
+  width: 613px;
+  height: 29px;
+}
+.graphic-design-major-container {
+  position: absolute;
+  top: 856px;
+  left: 122px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.14em;
+  font-weight: 300;
+  display: inline-block;
+  width: 162px;
+}
+.home-item {
+  position: absolute;
+  top: 2054px;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 1440px;
+  height: 150px;
+}
+.carm-tol-httpspccceduwp-c-container {
+  position: absolute;
+  top: 2099px;
+  left: calc(50% - 655px);
+  font-size: var(--font-size-3xs);
+}
+.connect-with-pccc-container,
+.official-mailing-address-container {
+  position: absolute;
+  top: 2082px;
+  left: 611px;
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+  width: 505px;
+  height: 94px;
+}
+.connect-with-pccc-container {
+  top: 2099px;
+  left: 1197px;
+  width: 206px;
+  height: 60px;
+}
+.vector-icon,
+.vector-icon1,
+.vector-icon2,
+.vector-icon3 {
+  position: absolute;
+  height: 1.04%;
+  width: 1.6%;
+  top: 1.91%;
+  right: 3.06%;
+  bottom: 97.05%;
+  left: 95.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1,
+.vector-icon2,
+.vector-icon3 {
+  height: 0.91%;
+  width: 1.11%;
+  top: 1.95%;
+  right: 14.17%;
+  bottom: 97.14%;
+  left: 84.72%;
+}
+.vector-icon2,
+.vector-icon3 {
+  right: 40.07%;
+  left: 58.82%;
+}
+.vector-icon3 {
+  width: 1.39%;
+  right: 25.69%;
+  left: 72.92%;
+}
+.explore {
+  position: absolute;
+  top: 39px;
+  left: 717px;
+  font-weight: 600;
+  color: var(--color-snow);
+}
+.vector-icon4 {
+  position: absolute;
+  height: 0.54%;
+  width: 1.39%;
+  top: 2.13%;
+  right: 50.9%;
+  bottom: 97.32%;
+  left: 47.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.logo-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 108px;
+  height: 108px;
+  object-fit: cover;
+}
+.home {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 2204px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

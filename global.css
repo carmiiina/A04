@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-abril-fatface: "Abril Fatface";
+  --font-georgia: Georgia;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-3xs: 10px;
+  --font-size-lg: 18px;
+  --font-size-mini: 15px;
+  --font-size-2xl-6: 21.6px;
+
+  /* Colors */
+  --color-snow: #fcf6f6;
+  --color-black: #000;
+}
